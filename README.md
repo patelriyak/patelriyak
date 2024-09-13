@@ -1,5 +1,3 @@
-## Hi 👋, I'm Riya!
-
 <h1 align="center">Hi 👋, I'm Riya!</h1>
 <h3 align="center">A passionate Fullstack Developer based in Tampa, FL</h3>
 
